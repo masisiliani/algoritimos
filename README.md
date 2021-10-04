@@ -1,6 +1,7 @@
 # alGOritmos
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
+![Go Language](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 Esse repositório é de estudos e experimento de algoritimos e problemas em Go :)
 

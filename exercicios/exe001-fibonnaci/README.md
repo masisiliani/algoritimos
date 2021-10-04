@@ -1,6 +1,8 @@
 # Fibonacci
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
+![Go Language](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 
 Esse repositório possui 4 versões de soluções para a Sequencia de Fibonacci.
 [Nesse artigo]() descrevo cada uma delas ;)
