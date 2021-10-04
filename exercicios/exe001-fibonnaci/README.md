@@ -1,8 +1,9 @@
-# alGOritmos
+# Fibonacci
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 
-Esse repositório é de estudos e experimento de algoritimos e problemas em Go :)
+Esse repositório possui 4 versões de soluções para a Sequencia de Fibonacci.
+[Nesse artigo]() descrevo cada uma delas ;)
 
 ## 💻 Pré-requisitos
 
